@@ -1,4 +1,4 @@
-# code your #valid_move? method here
+
 def valid_move?(board, index)
 # is the move already filled with a token?
   if index.between?(0, 8) 
